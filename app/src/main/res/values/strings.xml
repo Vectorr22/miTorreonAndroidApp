@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">miTorreon</string>
+    <string name="category_tourism">Tourism</string>
+    <string name="category_gastronomy">Gastronomy</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_parks_and_gardens">Parks</string>
+    <string name="category_night_life">Night life</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="back_button">Back button</string>
+    <string name="mi_torreon_home">Categories</string>
+    <string name="home_bottom_button">Home bottom button</string>
+    <string name="list_bottom_icon">List bottom icon</string>
+    <string name="info_bottom_icon">Info bottom icon</string>
+    <string name="ubication_click">Ubication click</string>
+    <string name="send_to_maps_ubication_description">Send to maps ubication</string>
+    <string name="slide_left_image">Slide left image</string>
+    <string name="allUbications">Ubications</string>
+    <string name="detailScreen">Details</string>
+    <string name="infoScreen">About</string>
+    <string name="firstText_info">This app was developed by:</string>
+    <string name="secondText_info">Victor Tijerina</string>
+    <string name="my_socials">My socials</string>
+    <string name="my_linkedin">My Linkedin</string>
+    <string name="my_github">My Github</string>
+    <string name="greetings">Thanks for checking it up!</string>
+    <string name="ubication_maps_title">Ubication</string>
+    <string name="marker_in_torreon_maps">Marker in Torreón</string>
+</resources>

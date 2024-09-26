@@ -33,21 +33,13 @@ In order to run the app, you will need the following
 
 
 ## Images
-<p float="left">
-  <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/1.png" alt="Descripción de la imagen" width ="350" hspace ="90"/>
-  <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/2.png" alt="Descripción de la imagen" width ="300"/>
-</p>
-<br>
-<br>
-<p float="left">
-  <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/3.png" alt="Descripción de la imagen" width ="300" hspace ="90"/>
-  <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/4.png" alt="Descripción de la imagen" width ="300"/>
-</p>
-<br><br>
-<p float="left">
-  <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/5.png" alt="Descripción de la imagen" width ="400" hspace ="90"/>
-  <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/6.png" alt="Descripción de la imagen" width ="400"/>
-</p>
+
+|                          |                          |
+|--------------------------|--------------------------|
+| <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/1.png" alt="Descripción de la imagen" width ="350"/> | <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/2.png" alt="Descripción de la imagen" width ="350"/> |
+| <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/3.png" alt="Descripción de la imagen" width ="350"/> | <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/4.png" alt="Descripción de la imagen" width ="350"/> |
+| <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/5.png" alt="Descripción de la imagen" width ="400"/> | <img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/6.png" alt="Descripción de la imagen" width ="400"/> |
+
 
 
 

@@ -21,8 +21,7 @@ $ git://https://github.com/Vectorr22/miTorreonAndroidApp.git
 ```
 
 ##Images
-<img src="https://raw.github.com/Applicasa/Sample-App-iOS/stable/readme_imgs/web-console.png"/>
-
+<img src="https://raw.githubusercontent.com/Vectorr22/miTorreonAndroidApp/master/1.jpeg" alt="Descripción de la imagen"/>
 The screenshot below is one of the steps required to create a promotion. Here it's a promo in the form of a deal, offering 20% off on another virtual good. This promo is triggered once the player has made his/her first purchase. Our promotional tool offers many different events that can trigger these kinds of promotions during the game.
 
 <img src="https://raw.github.com/Applicasa/Sample-App-iOS/stable/readme_imgs/Offer.png"/>
